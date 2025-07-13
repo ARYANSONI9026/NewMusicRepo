@@ -1,7 +1,7 @@
 {
-    "name": "VILLAIN_MUSIC",
+    "name": "ANIMAL_MUSIC",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://files.catbox.moe/bswmmi.jpg",
+    "logo": "https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "7710642242",
         "required": true
       },
       "STRING_SESSION": {
